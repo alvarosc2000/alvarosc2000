@@ -5,7 +5,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving hand" width="80" />
 </p>
 
-<h1 align="center">🚀 Hey there, I'm Álvaro 👋</h1>
 <h2 align="center">Software Engineer | Scalable APIs & Cloud Enthusiast ☁️</h2>
 
 <p align="center">
@@ -89,13 +88,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu_usuario_github&show_icons=true&theme=radical&hide_title=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alvarosc2000&show_icons=true&theme=radical&hide_title=true" width="400" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario_github&layout=compact&theme=radical" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarosc2000&layout=compact&theme=radical" width="300" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu_usuario_github&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alvarosc2000&theme=radical" />
 </p>
 
 ---
@@ -103,16 +102,8 @@
 ## 📫 Let’s Connect!
 
 <p align="center">
-  <a href="https://linkedin.com/in/alvarodeveloper" target="_blank">
+  <a href="https://www.linkedin.com/in/%C3%A1lvaro-salas-b4091b251/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/alvaro_dev" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:tu.email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
