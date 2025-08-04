@@ -1,10 +1,6 @@
 <!-- Banner SVG Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Hey,%20I'm%20Álvaro%20👋&fontSize=40&fontAlign=50&fontColor=FFFFFF" />
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving hand" width="80" />
-</p>
-
 <h2 align="center">Software Engineer | Scalable APIs & Cloud Enthusiast ☁️</h2>
 
 <p align="center">
@@ -82,20 +78,6 @@
     </td>
   </tr>
 </table>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alvarosc2000&show_icons=true&theme=radical&hide_title=true" width="400" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarosc2000&layout=compact&theme=radical" width="300" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alvarosc2000&theme=radical" />
-</p>
 
 ---
 
