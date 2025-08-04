@@ -1,5 +1,7 @@
 <!-- Banner SVG Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Hey,%20I'm%20Álvaro%20👋&fontSize=40&fontAlign=50&fontColor=FFFFFF" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Hey,%20I'm%20Álvaro%20👋&fontSize=40&fontAlign=50&fontColor=FFFFFF" alt="Álvaro Banner" />
+</p>
 
 <h2 align="center">Software Engineer | Scalable APIs & Cloud Enthusiast ☁️</h2>
 
@@ -24,9 +26,9 @@
 
 ## 🛠️ Tech Stack & Expertise
 
-<table align="center" width="85%" cellpadding="12">
+<table align="center" width="90%" cellpadding="12">
   <tr>
-    <th align="left" width="25%">Category</th>
+    <th align="left" width="22%">Category</th>
     <th align="left">Technologies & Tools</th>
   </tr>
   <tr>
@@ -39,9 +41,11 @@
   <tr>
     <td>🔧 Backend Development</td>
     <td>
-      Node.js (Express.js, Apollo Server – GraphQL) &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="25" />
+      Node.js (Express.js, Apollo Server – GraphQL) &nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="25" />
       <br />
-      FastAPI (Python) &nbsp;&nbsp; <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.svg" alt="FastAPI" width="45" />
+      FastAPI (Python) &nbsp;&nbsp;
+      <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.svg" alt="FastAPI" width="45" />
     </td>
   </tr>
   <tr>
@@ -54,15 +58,22 @@
   <tr>
     <td>☁️ Cloud & DevOps</td>
     <td>
-      AWS (S3, IAM) &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="25" />
+      AWS (S3, IAM) &nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="25" />
       <br />
-      GitLab CI/CD &nbsp;&nbsp; Docker & Kubernetes &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="25" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="25" />
+      GitLab CI/CD &nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="25" /> &nbsp;&nbsp;
+      Docker &nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="25" /> &nbsp;&nbsp;
+      Kubernetes &nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="25" />
     </td>
   </tr>
   <tr>
     <td>✅ Testing & QA</td>
     <td>
-      Pytest &nbsp;&nbsp; Postman &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="25" />
+      Pytest &nbsp;&nbsp; Postman &nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="25" />
     </td>
   </tr>
   <tr>
@@ -74,7 +85,11 @@
   <tr>
     <td>📈 Tools & Workflow</td>
     <td>
-      Git & GitHub &nbsp;&nbsp; Jira &nbsp;&nbsp; Fluent English
+      Git & GitHub &nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="25" /> &nbsp;&nbsp;
+      Jira &nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="25" /> &nbsp;&nbsp;
+      Fluent English
     </td>
   </tr>
 </table>
